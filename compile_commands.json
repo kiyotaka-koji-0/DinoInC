@@ -1,0 +1,16 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-c",
+      "-I/usr/local/include",
+      "-pthread",
+      "-o",
+      "game",
+      "main.c"
+    ],
+    "directory": "/home/kiyotaka/Documents/Coding_Repos/DinoInC",
+    "file": "/home/kiyotaka/Documents/Coding_Repos/DinoInC/main.c",
+    "output": "/home/kiyotaka/Documents/Coding_Repos/DinoInC/game"
+  }
+]
